@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>develop3</div>
+    <div>marge</div>
     <router-view/>
   </div>
 </template>
