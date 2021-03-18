@@ -3,7 +3,7 @@
     <img src="./assets/logo.png">
     <div>develop3</div>
     <div>marge</div>
-    <div>second5</div>
+    <div>second6</div>
     <router-view/>
   </div>
 </template>
