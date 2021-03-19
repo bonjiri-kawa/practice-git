@@ -7,6 +7,7 @@
     <div>develop</div>
     <div>develop2</div>
     <div>develop3</div>
+    <div>develop4</div>
     <router-view/>
   </div>
 </template>
