@@ -6,6 +6,7 @@
     <div>second11</div>
     <div>develop</div>
     <div>develop2</div>
+    <div>develop3</div>
     <router-view/>
   </div>
 </template>
