@@ -4,6 +4,8 @@
     <div>develop3</div>
     <div>marge</div>
     <div>second11</div>
+    <div>develop</div>
+    <div>develop2</div>
     <router-view/>
   </div>
 </template>
